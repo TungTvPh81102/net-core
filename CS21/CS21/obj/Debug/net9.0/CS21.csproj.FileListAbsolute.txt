@@ -1,0 +1,14 @@
+E:\senao\CS21\CS21\bin\Debug\net9.0\CS21.exe
+E:\senao\CS21\CS21\bin\Debug\net9.0\CS21.deps.json
+E:\senao\CS21\CS21\bin\Debug\net9.0\CS21.runtimeconfig.json
+E:\senao\CS21\CS21\bin\Debug\net9.0\CS21.dll
+E:\senao\CS21\CS21\bin\Debug\net9.0\CS21.pdb
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.AssemblyInfoInputs.cache
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.AssemblyInfo.cs
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.csproj.CoreCompileInputs.cache
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.dll
+E:\senao\CS21\CS21\obj\Debug\net9.0\refint\CS21.dll
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.pdb
+E:\senao\CS21\CS21\obj\Debug\net9.0\CS21.genruntimeconfig.cache
+E:\senao\CS21\CS21\obj\Debug\net9.0\ref\CS21.dll

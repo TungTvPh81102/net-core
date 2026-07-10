@@ -1,0 +1,14 @@
+E:\senao\CS30\CS30\bin\Debug\net9.0\CS30.exe
+E:\senao\CS30\CS30\bin\Debug\net9.0\CS30.deps.json
+E:\senao\CS30\CS30\bin\Debug\net9.0\CS30.runtimeconfig.json
+E:\senao\CS30\CS30\bin\Debug\net9.0\CS30.dll
+E:\senao\CS30\CS30\bin\Debug\net9.0\CS30.pdb
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.AssemblyInfoInputs.cache
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.AssemblyInfo.cs
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.csproj.CoreCompileInputs.cache
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.dll
+E:\senao\CS30\CS30\obj\Debug\net9.0\refint\CS30.dll
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.pdb
+E:\senao\CS30\CS30\obj\Debug\net9.0\CS30.genruntimeconfig.cache
+E:\senao\CS30\CS30\obj\Debug\net9.0\ref\CS30.dll

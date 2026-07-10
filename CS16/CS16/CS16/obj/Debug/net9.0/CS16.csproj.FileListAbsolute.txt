@@ -1,0 +1,14 @@
+E:\senao\CS16\CS16\CS16\bin\Debug\net9.0\CS16.exe
+E:\senao\CS16\CS16\CS16\bin\Debug\net9.0\CS16.deps.json
+E:\senao\CS16\CS16\CS16\bin\Debug\net9.0\CS16.runtimeconfig.json
+E:\senao\CS16\CS16\CS16\bin\Debug\net9.0\CS16.dll
+E:\senao\CS16\CS16\CS16\bin\Debug\net9.0\CS16.pdb
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.AssemblyInfoInputs.cache
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.AssemblyInfo.cs
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.csproj.CoreCompileInputs.cache
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.dll
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\refint\CS16.dll
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.pdb
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\CS16.genruntimeconfig.cache
+E:\senao\CS16\CS16\CS16\obj\Debug\net9.0\ref\CS16.dll

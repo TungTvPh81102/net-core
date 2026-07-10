@@ -1,0 +1,14 @@
+E:\senao\CS28\CS28\bin\Debug\net9.0\CS28.exe
+E:\senao\CS28\CS28\bin\Debug\net9.0\CS28.deps.json
+E:\senao\CS28\CS28\bin\Debug\net9.0\CS28.runtimeconfig.json
+E:\senao\CS28\CS28\bin\Debug\net9.0\CS28.dll
+E:\senao\CS28\CS28\bin\Debug\net9.0\CS28.pdb
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.AssemblyInfoInputs.cache
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.AssemblyInfo.cs
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.csproj.CoreCompileInputs.cache
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.dll
+E:\senao\CS28\CS28\obj\Debug\net9.0\refint\CS28.dll
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.pdb
+E:\senao\CS28\CS28\obj\Debug\net9.0\CS28.genruntimeconfig.cache
+E:\senao\CS28\CS28\obj\Debug\net9.0\ref\CS28.dll

@@ -1,0 +1,14 @@
+E:\senao\CS02\bin\Debug\net8.0\CS02.exe
+E:\senao\CS02\bin\Debug\net8.0\CS02.deps.json
+E:\senao\CS02\bin\Debug\net8.0\CS02.runtimeconfig.json
+E:\senao\CS02\bin\Debug\net8.0\CS02.dll
+E:\senao\CS02\bin\Debug\net8.0\CS02.pdb
+E:\senao\CS02\obj\Debug\net8.0\CS02.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS02\obj\Debug\net8.0\CS02.AssemblyInfoInputs.cache
+E:\senao\CS02\obj\Debug\net8.0\CS02.AssemblyInfo.cs
+E:\senao\CS02\obj\Debug\net8.0\CS02.csproj.CoreCompileInputs.cache
+E:\senao\CS02\obj\Debug\net8.0\CS02.dll
+E:\senao\CS02\obj\Debug\net8.0\refint\CS02.dll
+E:\senao\CS02\obj\Debug\net8.0\CS02.pdb
+E:\senao\CS02\obj\Debug\net8.0\CS02.genruntimeconfig.cache
+E:\senao\CS02\obj\Debug\net8.0\ref\CS02.dll

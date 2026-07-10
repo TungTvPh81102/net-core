@@ -1,0 +1,14 @@
+E:\senao\CS34\CS34\bin\Debug\net9.0\CS34.exe
+E:\senao\CS34\CS34\bin\Debug\net9.0\CS34.deps.json
+E:\senao\CS34\CS34\bin\Debug\net9.0\CS34.runtimeconfig.json
+E:\senao\CS34\CS34\bin\Debug\net9.0\CS34.dll
+E:\senao\CS34\CS34\bin\Debug\net9.0\CS34.pdb
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.AssemblyInfoInputs.cache
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.AssemblyInfo.cs
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.csproj.CoreCompileInputs.cache
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.dll
+E:\senao\CS34\CS34\obj\Debug\net9.0\refint\CS34.dll
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.pdb
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.genruntimeconfig.cache
+E:\senao\CS34\CS34\obj\Debug\net9.0\ref\CS34.dll

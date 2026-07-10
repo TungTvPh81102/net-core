@@ -1,0 +1,14 @@
+E:\senao\CS11\bin\Debug\net8.0\CS11.exe
+E:\senao\CS11\bin\Debug\net8.0\CS11.deps.json
+E:\senao\CS11\bin\Debug\net8.0\CS11.runtimeconfig.json
+E:\senao\CS11\bin\Debug\net8.0\CS11.dll
+E:\senao\CS11\bin\Debug\net8.0\CS11.pdb
+E:\senao\CS11\obj\Debug\net8.0\CS11.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS11\obj\Debug\net8.0\CS11.AssemblyInfoInputs.cache
+E:\senao\CS11\obj\Debug\net8.0\CS11.AssemblyInfo.cs
+E:\senao\CS11\obj\Debug\net8.0\CS11.csproj.CoreCompileInputs.cache
+E:\senao\CS11\obj\Debug\net8.0\CS11.dll
+E:\senao\CS11\obj\Debug\net8.0\refint\CS11.dll
+E:\senao\CS11\obj\Debug\net8.0\CS11.pdb
+E:\senao\CS11\obj\Debug\net8.0\CS11.genruntimeconfig.cache
+E:\senao\CS11\obj\Debug\net8.0\ref\CS11.dll

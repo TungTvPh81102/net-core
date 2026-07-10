@@ -1,0 +1,14 @@
+E:\senao\CS26\CS26\bin\Debug\net9.0\CS26.exe
+E:\senao\CS26\CS26\bin\Debug\net9.0\CS26.deps.json
+E:\senao\CS26\CS26\bin\Debug\net9.0\CS26.runtimeconfig.json
+E:\senao\CS26\CS26\bin\Debug\net9.0\CS26.dll
+E:\senao\CS26\CS26\bin\Debug\net9.0\CS26.pdb
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.AssemblyInfoInputs.cache
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.AssemblyInfo.cs
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.csproj.CoreCompileInputs.cache
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.dll
+E:\senao\CS26\CS26\obj\Debug\net9.0\refint\CS26.dll
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.pdb
+E:\senao\CS26\CS26\obj\Debug\net9.0\CS26.genruntimeconfig.cache
+E:\senao\CS26\CS26\obj\Debug\net9.0\ref\CS26.dll

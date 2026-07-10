@@ -1,0 +1,10 @@
+﻿{
+  "section1": {
+    "key1": "dfghjkl;",
+    "key2": 23223
+  },
+  "MyServiceOptions": {
+    "data1": "Hoc ve dependency inject",
+    "data": 135787
+  }
+}

@@ -1,0 +1,14 @@
+E:\senao\CS23\CS23\bin\Debug\net9.0\CS23.exe
+E:\senao\CS23\CS23\bin\Debug\net9.0\CS23.deps.json
+E:\senao\CS23\CS23\bin\Debug\net9.0\CS23.runtimeconfig.json
+E:\senao\CS23\CS23\bin\Debug\net9.0\CS23.dll
+E:\senao\CS23\CS23\bin\Debug\net9.0\CS23.pdb
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.AssemblyInfoInputs.cache
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.AssemblyInfo.cs
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.csproj.CoreCompileInputs.cache
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.dll
+E:\senao\CS23\CS23\obj\Debug\net9.0\refint\CS23.dll
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.pdb
+E:\senao\CS23\CS23\obj\Debug\net9.0\CS23.genruntimeconfig.cache
+E:\senao\CS23\CS23\obj\Debug\net9.0\ref\CS23.dll

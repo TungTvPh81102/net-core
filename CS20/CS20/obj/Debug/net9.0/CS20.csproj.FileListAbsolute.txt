@@ -1,0 +1,14 @@
+E:\senao\CS20\CS20\bin\Debug\net9.0\CS20.exe
+E:\senao\CS20\CS20\bin\Debug\net9.0\CS20.deps.json
+E:\senao\CS20\CS20\bin\Debug\net9.0\CS20.runtimeconfig.json
+E:\senao\CS20\CS20\bin\Debug\net9.0\CS20.dll
+E:\senao\CS20\CS20\bin\Debug\net9.0\CS20.pdb
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.AssemblyInfoInputs.cache
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.AssemblyInfo.cs
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.csproj.CoreCompileInputs.cache
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.dll
+E:\senao\CS20\CS20\obj\Debug\net9.0\refint\CS20.dll
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.pdb
+E:\senao\CS20\CS20\obj\Debug\net9.0\CS20.genruntimeconfig.cache
+E:\senao\CS20\CS20\obj\Debug\net9.0\ref\CS20.dll

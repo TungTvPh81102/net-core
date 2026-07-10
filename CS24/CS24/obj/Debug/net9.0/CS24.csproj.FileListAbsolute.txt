@@ -1,0 +1,14 @@
+E:\senao\CS24\CS24\bin\Debug\net9.0\CS24.exe
+E:\senao\CS24\CS24\bin\Debug\net9.0\CS24.deps.json
+E:\senao\CS24\CS24\bin\Debug\net9.0\CS24.runtimeconfig.json
+E:\senao\CS24\CS24\bin\Debug\net9.0\CS24.dll
+E:\senao\CS24\CS24\bin\Debug\net9.0\CS24.pdb
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.AssemblyInfoInputs.cache
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.AssemblyInfo.cs
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.csproj.CoreCompileInputs.cache
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.dll
+E:\senao\CS24\CS24\obj\Debug\net9.0\refint\CS24.dll
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.pdb
+E:\senao\CS24\CS24\obj\Debug\net9.0\CS24.genruntimeconfig.cache
+E:\senao\CS24\CS24\obj\Debug\net9.0\ref\CS24.dll

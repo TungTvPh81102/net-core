@@ -1,0 +1,14 @@
+E:\senao\CS05\bin\Debug\net8.0\CS05.exe
+E:\senao\CS05\bin\Debug\net8.0\CS05.deps.json
+E:\senao\CS05\bin\Debug\net8.0\CS05.runtimeconfig.json
+E:\senao\CS05\bin\Debug\net8.0\CS05.dll
+E:\senao\CS05\bin\Debug\net8.0\CS05.pdb
+E:\senao\CS05\obj\Debug\net8.0\CS05.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS05\obj\Debug\net8.0\CS05.AssemblyInfoInputs.cache
+E:\senao\CS05\obj\Debug\net8.0\CS05.AssemblyInfo.cs
+E:\senao\CS05\obj\Debug\net8.0\CS05.csproj.CoreCompileInputs.cache
+E:\senao\CS05\obj\Debug\net8.0\CS05.dll
+E:\senao\CS05\obj\Debug\net8.0\refint\CS05.dll
+E:\senao\CS05\obj\Debug\net8.0\CS05.pdb
+E:\senao\CS05\obj\Debug\net8.0\CS05.genruntimeconfig.cache
+E:\senao\CS05\obj\Debug\net8.0\ref\CS05.dll

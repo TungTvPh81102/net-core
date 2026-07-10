@@ -1,0 +1,14 @@
+E:\senao\CS22\CS22\bin\Debug\net9.0\CS22.exe
+E:\senao\CS22\CS22\bin\Debug\net9.0\CS22.deps.json
+E:\senao\CS22\CS22\bin\Debug\net9.0\CS22.runtimeconfig.json
+E:\senao\CS22\CS22\bin\Debug\net9.0\CS22.dll
+E:\senao\CS22\CS22\bin\Debug\net9.0\CS22.pdb
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.GeneratedMSBuildEditorConfig.editorconfig
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.AssemblyInfoInputs.cache
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.AssemblyInfo.cs
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.csproj.CoreCompileInputs.cache
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.dll
+E:\senao\CS22\CS22\obj\Debug\net9.0\refint\CS22.dll
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.pdb
+E:\senao\CS22\CS22\obj\Debug\net9.0\CS22.genruntimeconfig.cache
+E:\senao\CS22\CS22\obj\Debug\net9.0\ref\CS22.dll
