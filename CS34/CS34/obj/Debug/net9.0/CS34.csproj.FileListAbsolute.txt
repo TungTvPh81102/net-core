@@ -12,3 +12,4 @@ E:\senao\CS34\CS34\obj\Debug\net9.0\refint\CS34.dll
 E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.pdb
 E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.genruntimeconfig.cache
 E:\senao\CS34\CS34\obj\Debug\net9.0\ref\CS34.dll
+E:\senao\CS34\CS34\obj\Debug\net9.0\CS34.sourcelink.json
